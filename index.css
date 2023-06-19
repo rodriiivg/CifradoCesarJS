@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 :root {
     --color-terminal: #353535;
     --borde-redondo: 4px;
 }
 
 * {
-    font-family: 'Comforter', cursive;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 body {
